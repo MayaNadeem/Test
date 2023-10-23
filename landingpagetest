@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<title>TELUS Choose your language | Choisissez votre langue</title>
+  <style>	
+
+	html, body {
+		height: 100%
+		}
+
+	A:link, A:visited {
+		BACKGROUND-COLOR: #2B8000;
+		BORDER: 3px solid #2B8000;			
+		BORDER-RADIUS: 12px;
+		COLOR: white;  	
+		PADDING: 42px 80px;
+		FONT-FAMILY: Arial; 
+		FONT-SIZE: 48px; 
+		FONT-WEIGHT: Normal;
+		TEXT-ALIGN: center;
+		TEXT-DECORATION: none;
+		DISPLAY: inline-block;
+
+		}
+	A:hover {
+		BACKGROUND-COLOR: white;
+		BORDER: 3px solid #2B8000;			
+		BORDER-RADIUS: 12px;
+		PADDING: 42px 80px;
+		COLOR: #2B8000;
+		FONT-FAMILY: Arial; 
+		FONT-SIZE: 48px; 
+		FONT-WEIGHT: Normal;
+		TEXT-ALIGN: center;
+		TEXT-DECORATION: none;
+		}			
+	</style>
+</head>
+
+<body>
+	<table style="height:100%; width:100%">
+	  <td align=center valign=center>
+		<table align=center>
+			<image src="https://images.ctfassets.net/fikanzmkdlqn/5NoHRB1q6lrNzSSpekhrG5/cf22f3d7d9e82aed5e79659800458b57/TELUS_TAGLINE_HORIZONTAL_EN.svg" width="600" height="117"></td>
+				<br><br><br><br>
+			<tr>	
+				<td align=center><a href="https://sites.google.com/telus.com/digital-career-framework/">&#127758;  English &nbsp;</a>&nbsp;&nbsp;&nbsp;&nbsp;</td> 
+				<td align=center><a href="https://sites.google.com/telus.com/cadre-de-developpement">&#127758;  Français</a></td> 	
+			</tr>
+		</table>
+	  </td>
+	</table>
+</body>
+</html>
